@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">1. Ouvrir le `setup.bat`, les modules s'installerons.<br>2. Ouvrir le `NLGEN.py`.<br>3. Enjoy !</p>
+<p align="left">1. Ouvrir le ```setup.bat```, les modules s'installerons.<br>2. Ouvrir le ```NLGEN.py```.<br>3. Enjoy !</p>
 
 ###
 
